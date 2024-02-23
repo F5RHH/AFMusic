@@ -19,7 +19,7 @@ def start_panel(_):
         ],
         [
          
-            InlineKeyboardButton(text="ْᯓ 𝘼𝙇𓄂𝙈𝙊𝙃𝘼𝙉𝘿𝙄𝙎 🜝", url=f"https://t.me/yut70"),
+            InlineKeyboardButton(text="ْᯓ 𝘼𝙇𓄂𝙈𝙊𝙃𝘼𝙉𝘿𝙄𝙎 🜝", url=f"https://t.me/yQr70"),
         ],
     ]
     return buttons
@@ -40,7 +40,7 @@ def private_panel(_):
         ],
         [
          
-            InlineKeyboardButton(text="ْᯓ 𝘼𝙇𓄂𝙈𝙊𝙃𝘼𝙉𝘿𝙄𝙎 🜝", url=f"https://t.me/yut70"),
+            InlineKeyboardButton(text="ْᯓ 𝘼𝙇𓄂𝙈𝙊𝙃𝘼𝙉𝘿𝙄𝙎 🜝", url=f"https://t.me/yQr70"),
         ],
     ]
     return buttons
