@@ -22,7 +22,7 @@ async def huhh(client: Client, message: Message):
         caption=f"""╭──── • ◈ • ────╮
 么 [َ  𝘴SOURS SIMA(t.me/Uyut70)
 么 [َ ᯓ 𝘼𝙇𓄂𝙈𝙊𝙃𝘼𝙉𝘿𝙄𝙎 ](t.me/yqr70)
-么 [َ ᥉υρρ᥆ᖇƚ ](t.me/YR_HX)
+么 [َ ᥉υρρ᥆ᖇƚ ](t.me/yua70)
 ╰──── • ◈ • ────╯
 ⍟ 𝚃𝙷𝙴 𝙱𝙴𝚂𝚃 𝚂𝙾𝚄𝚁𝙲𝙴 𝙾𝙽 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼""",
         reply_markup=InlineKeyboardMarkup(
@@ -34,7 +34,7 @@ async def huhh(client: Client, message: Message):
                     InlineKeyboardButton(
                         "‹ ᥴ𝗁ᥲ️ꪀꪀᥱᥣ›", url=f"https://t.me/yut70"), 
                     InlineKeyboardButton(
-                        "‹ ᥉υρρ᥆ᖇƚ›", url=f"https://t.me/YR_HX "),
+                        "‹ ᥉υρρ᥆ᖇƚ›", url=f"https://t.me/yua70 "),
                 ],[
                     InlineKeyboardButton(
                         "‹ اضف البوت لمجموعتك ›", url=f"https://t.me/A_Rn_obot?startgroup=true"),
