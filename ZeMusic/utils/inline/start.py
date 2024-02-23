@@ -19,7 +19,7 @@ def start_panel(_):
         ],
         [
          
-            InlineKeyboardButton(text="ْ𓆩⧛ َ 𝘼َِ𝙁َِ𝙍َِ𝙊َِ𝙊َِ𝙏َِ𝙊ِ ┇ عـ๋͜‏ـۂفــ͡ـࢪتوُ ⧚𓆪", url=f"https://t.me/VVYVVJ"),
+            InlineKeyboardButton(text="ْᯓ 𝘼𝙇𓄂𝙈𝙊𝙃𝘼𝙉𝘿𝙄𝙎 🜝", url=f"https://t.me/yut70"),
         ],
     ]
     return buttons
@@ -40,7 +40,7 @@ def private_panel(_):
         ],
         [
          
-            InlineKeyboardButton(text="ْ𓆩⧛ َ 𝘼َِ𝙁َِ𝙍َِ𝙊َِ𝙊َِ𝙏َِ𝙊ِ ┇ عـ๋͜‏ـۂفــ͡ـࢪتوُ ⧚𓆪", url=f"https://t.me/VVYVVJ"),
+            InlineKeyboardButton(text="ْᯓ 𝘼𝙇𓄂𝙈𝙊𝙃𝘼𝙉𝘿𝙄𝙎 🜝", url=f"https://t.me/yut70"),
         ],
     ]
     return buttons
