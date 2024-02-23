@@ -16,7 +16,7 @@ async def zdatsr(client: Client, message: Message):
     name = usr.first_name
     usrnam = usr.username
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/04b2f1f1c808dc49db35b.jpg",
+        photo=f"https://telegra.ph//file/4de92822c3b4873db9572.jpg",
         caption=f"""<b>» مرحبـاً بك عـزيـزي </b> {message.from_user.mention} .\n\n<b>» استخـدم الازرار بالاسفـل 𝄞\n» لـ تصفـح اوامـر الميـوزك 🥁</b>""",
         reply_markup=InlineKeyboardMarkup(
             [
@@ -48,19 +48,19 @@ async def zilzal(client: Client, message: Message):
     name = usr.first_name
     usrnam = usr.username
     async for photo in client.iter_profile_photos(OWNER_ID, limit=1):
-                    await message.reply_photo(photo.file_id,       caption=f"""ٴ<b>•────‌‌‏✯ ʑ_ᴍᴜsɪᴄ ✯──‌‌‏─‌‌‏─•</b>
+                    await message.reply_photo(photo.file_id,       caption=f"""ٴ<b>•────‌‌‏✯ _ᴍᴜsɪᴄ ✯──‌‌‏─‌‌‏─•</b>
                     
 - 𝚆𝙾𝙽𝙴𝚁 :[{usr.first_name}](https://t.me/{OWNER})
 - 𝚄𝚂𝙴𝚁 :@{usrnam} 
 - 𝙸𝙳 :`{usr.id}`
  
-ٴ<b>•────‌‌‏✯ ʑ_ᴍᴜsɪᴄ ✯──‌‌‏─‌‌‏─•</b> """, 
+ٴ<b>•────‌‌‏✯ _ᴍᴜsɪᴄ ✯──‌‌‏─‌‌‏─•</b> """, 
 reply_markup=InlineKeyboardMarkup(
           [               
             [            
               InlineKeyboardButton (name, url=f"https://t.me/{usrnam}"),
             ],[
-              InlineKeyboardButton("•✯ ᴢᴛʜᴏɴ_ᴍᴜsɪᴄ ✯•", url="https://t.me/UI_VM"),
+              InlineKeyboardButton("•✯ _ᴍᴜsɪᴄ ✯•", url="https://t.me/yut70"),
             ],
           ]
        )                 
